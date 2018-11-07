@@ -1,0 +1,5 @@
+com/themri/testapirest/model/Developpeur.class
+com/themri/testapirest/contoller/DeveloppeurController.class
+com/themri/testapirest/RunApplicationSpringBoot.class
+com/themri/testapirest/dao/DeveloppeurDao.class
+com/themri/testapirest/repository/DeveloppeurRepository.class
